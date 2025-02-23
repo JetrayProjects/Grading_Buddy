@@ -1,6 +1,3 @@
-Here's a GitHub README for your project:
-
----
 
 # 📚 Grading Buddy: AI-Powered PDF Grading App
 
@@ -32,11 +29,7 @@ Grading Buddy is an AI-powered web application built using **Streamlit**, **Open
     git clone https://github.com/yourusername/grading-buddy.git
     cd grading-buddy
     ```
-
-2. Install the required Python packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
+2. Install the required packages
 
 3. Set your OpenAI API key:
     - In the code, replace `INPUT_YOUR_KEY_HERE` with your actual OpenAI API key.
@@ -48,7 +41,7 @@ Grading Buddy is an AI-powered web application built using **Streamlit**, **Open
     streamlit run app.py
     ```
 
-2. Open the app in your browser at `http://localhost:8501`.
+2. Open the app in your browser at `http://localhost:8501` or let it automatically open up in your browser
 
 3. Upload the professor's questions/answers in PDF format and student answers in PDF format.
 
